@@ -1,0 +1,12 @@
+.footer-block {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+
+.footer-main {
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}

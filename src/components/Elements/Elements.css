@@ -1,0 +1,34 @@
+.article {
+    width: 30%;
+    margin-bottom: 1%;
+}
+.article:nth-child(2n) {
+    flex-basis: 60%;
+}
+
+.content-string {
+    display: flex;
+    align-items: center;
+}
+.heading-list {
+    padding-left: 10px;
+}
+.heading {
+    color: cornflowerblue;
+    white-space: nowrap;
+}
+
+.heading-bold {
+    color: darkblue;
+}
+
+.news-list:first-child{
+    color: darkblue;
+}
+
+
+.heading-item {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
