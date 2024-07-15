@@ -2,7 +2,6 @@ export const footerInfo = [
     {
         id: 1,
         heading: 'Погода',
-        img: '.../assets/cloud-snow-svgrepo-com.svg',
         info: ['+17', 'Утром +17,', 'Днем +20']
     },
     {
@@ -22,7 +21,6 @@ export const footerInfo = [
     {
         id: 4,
         heading: 'Телепрограмма',
-        img: '.../assets/cloud-snow-svgrepo-com.svg',
         info:['02:00  THT.Best THT International',
         '02:15  Джинглики Карусель INT',
         '02:25  Наедине со всеми Первый'
@@ -31,7 +29,6 @@ export const footerInfo = [
     {
         id: 5,
         heading: 'Эфир',
-        img: '.../assets/play-circle-svgrepo-com.svg',
         info: [
             'Управление как искусство Успех',
             'Ночь. Мир в это время earth TV',
